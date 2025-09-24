@@ -1,4 +1,4 @@
-# Hi, I'm Chritopher Hackett 👋
+# Hi, I'm Christopher Hackett 👋
 
 ## 👨‍🏫 About Me
 - Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
