@@ -2,7 +2,7 @@
 
 ## 👨‍🏫 About Me
 - Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
-- Born in New York City → Raised in Brooklyn, NY → Currently in Brooklyn, NY.
+- Born and raised in New York City
 - Outside of work I like to play music
 - Let's connect via email: christopherhackett20@gmail.com
 
