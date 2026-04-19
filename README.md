@@ -8,11 +8,14 @@
 
 ## Tech Stack:
 
-### Languages
+### Languages & Technologies
 - JavaScript
+- HTML
+- CSS
 
 ### Frameworks & Libraries
 - Node.js
+- Express
 
 ### Tools
 - Git
