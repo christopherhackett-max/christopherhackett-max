@@ -19,6 +19,7 @@
 ### Frameworks & Libraries
 - Node.js
 - Express
+- React
 
 ### Tools
 - Git
