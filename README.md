@@ -1,7 +1,7 @@
 # Hi, I'm Christopher Hackett 👋
 
 ## 👨‍🏫 About Me
-- Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
+- An Aspiring Full-Stack Engineer, Alumni of the [Marcy Lab School](https://www.marcylabschool.org/) currently a part of the CLA program.
 - Born and raised in New York City
 -  🥁 Musician/Performer 🎸 
 - Let's connect via email: christopherhackett20@gmail.com
